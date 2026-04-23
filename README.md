@@ -40,17 +40,3 @@ The piece is interactive: you type answers to three examinations. The virus resp
 *History of Computing — Week 5*
 
 ---
-
----
-
-# ARTIFACT SUMMARY (homework submission — ~300 words)
-
-This artifact is an interactive HTML piece that frames the question "what is thinking?" through three historical examination systems applied simultaneously to the same candidate: Turing's imitation test (1950), the Chinese Imperial Examination 科舉 (618–1905 CE), and Islamic hadith science's *isnad* methodology (9th century CE).
-
-The central argument is that Turing's famous substitution — replacing "can machines think?" with "can machines imitate?" — carried a hidden epistemological cost: it removed the requirement for any grounded relationship to truth. The test's sole criterion is plausibility to a human judge, with no external verifier. Two non-Western methodological traditions had already identified this as a specific, catchable failure mode.
-
-The 科舉 reveals what Turing's standard *doesn't ask*: intelligence in service of what? The examination possessed a canon — the Four Books and Five Classics — against which output was checked. Misquotation was immediately falsifiable. The corpus was the verifier. The 科舉 shows the shape of what Turing deliberately left out: a teleology, an external anchor, a reason.
-
-Hadith science, drawing on Farrell et al.'s framing of large models as cultural technologies that compress and reorganize human-generated information, reveals what Turing's standard *cannot catch*. Scholars required every claim to carry an *isnad* — a chain of transmission verifiable person by person back to the original source. Plausibility was explicitly insufficient. LeCun et al. establish that backpropagation optimizes for prediction, not truth; hallucination is structural, not accidental. The compression that makes large models powerful destroys provenance. There is no isnad. There is only more text.
-
-The piece makes these arguments interactively: the user sits three examinations alongside the candidate, types answers, and watches the methodologies render their verdicts. The candidate passes Turing's test and fails both others. The piece ends without resolution — a blinking cursor, and the question the three examinations together could not answer.
